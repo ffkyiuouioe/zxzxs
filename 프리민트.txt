@@ -1,0 +1,28 @@
+1 FTX거래소에 이더리움이있다 
+
+2. 메타마스크로 이더리움을 보낸다 (1번프로필부터 시작)
+
+(vpn연결확인)
+
+3. 이더리움을 보낸다  (FTX거래소에서 외부로 출금할때는 어느지갑에서 출발하던 상관없다)
+★주의사항 : 가스비확인하였을때 70이넘어가면 잠시 쉬도록한다
+
+4. 이더리움을 보내놓음과동시에 기다리는동안 프리민트 트위터팔로우 , 디스코드 접속을 해놓는다.
+트위터
+@weareplanetmojo 
+@LostEdenNFT 
+@forgottenrunes
+@cpgclub
+@zeta_io
+
+디스코드 
+forgottenrunes
+LostEden
+PlanetMojo
+zetanft
+BlvckParis
+
+5. BLACK의경우 지갑등록을한후 나오는 코드를 복사하여 디스코드 bot-command 란에 코드를복사해준다
+
+6. FTX에서 돈이들어올때는 이전 전송한 지갑과 겹치지않도록 주의한다
+
